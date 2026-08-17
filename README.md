@@ -13,7 +13,7 @@ This hackathon takes Ethereum's core values — censorship resistance, open sour
 | | |
 |---|---|
 | **What** | 6-hour, in-person Ethereum build sprint |
-| **When** | 14 September 2026, 11:00–17:00 IST |
+| **When** | 21 September 2026, 11:00–17:00 IST |
 | **Where** | Baderia Global Institute of Engineering and Management, Jabalpur, Madhya Pradesh, India |
 | **Register** | [luma.com/fdadgux1](https://luma.com/fdadgux1) |
 
